@@ -16,3 +16,9 @@
 .prettierignore
 
 /assessment/node_modules
+
+# Local and generated assessment files
+assessment/.env
+assessment/node_modules/
+assessment/npm-debug.log
+assessment/cypressResults.json
